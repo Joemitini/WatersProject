@@ -12,6 +12,8 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
+    //waters connect testing
+    //Connect to virtual afterwards
     @Test
     public void shouldAnswerWithTrue()
     {
